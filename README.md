@@ -214,7 +214,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Leandro Handal](https://www.leandrohandal.com/)
 
 - Email: [lataivanruslan@gmail.com](mailto:lataivanruslan@gmail.com)
-- 
+  
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
