@@ -213,8 +213,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Leandro Handal](https://www.leandrohandal.com/)
 
-- Email: [lhandalb@gmail.com](mailto:lataivanruslan@gmail.com
-)
+- Email: [lataivanruslan@gmail.com](mailto:lataivanruslan@gmail.com)
 
 Project Link: [https://github.com/lhandal/crypto-trading-bot](https://github.com/lhandal/crypto-trading-bot)
 
